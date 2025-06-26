@@ -13,7 +13,7 @@ To open and modify this project:
 
 1. Install **Altium Designer** 
 2. Clone or download this repository.
-3. Open the `USB_C_to_USB_A.PrjPcb` file in Altium.
+3. Open the `USBC2USB.PrjPcb` file in Altium.
 4. Review the schematic and PCB layout.
 5. Generate outputs (Gerbers, BOM, etc.) if needed.
 
